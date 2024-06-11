@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Priyanshu Naskar. A 14 y/o student.
-- 👀 I’m interested in Softwares & Cybersecurity
-- 🌱 I’m currently learning Python, Java, JavaScript and Cybersecurity
+- 👀 I’m interested in AI / ML, Cybersecurity & Software Development.
+- 🌱 I’m currently learning Python, Java, JavaScript, Cybersecurity and AI.
 - 💞️ I’m looking to collaborate on project that I can work on.
 - 📫 How to reach me ItzBLAZE_01@proton.me
 - 😄 Pronouns: he/him
